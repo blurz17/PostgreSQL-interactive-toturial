@@ -32,7 +32,7 @@ Since this is a client-side only Web Application, running it is incredibly simpl
 
 1. Clone the repository:
    
-git clone https://github.com/John7Lj/PostgreSQL-interactive-toturial
+git clone https://github.com/blurz17/PostgreSQL-interactive-toturial
 
 2. Open the `index.html` file in your favorite modern web browser.
 3. Start learning and earning XP!
