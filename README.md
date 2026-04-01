@@ -31,9 +31,9 @@
 Since this is a client-side only Web Application, running it is incredibly simple:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/postgresql-quest.git
-   ```
+   
+git clone https://github.com/John7Lj/-PostgreSQL-interactive-toturial-
+
 2. Open the `index.html` file in your favorite modern web browser.
 3. Start learning and earning XP!
 
